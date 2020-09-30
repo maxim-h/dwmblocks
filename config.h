@@ -6,14 +6,15 @@ static const Block blocks[] = {
 	{"pacpackages",	0,	8},
 	/* {"crypto",	0,	13}, */
 	/* {"torrent",	20,	7}, */
+	{"nettraf",	1,	16},
 	{"news",	0,	6},
-	/* {"memory",	10,	14}, */
-	/* {"cpu",		10,	13}, */
+	{"memory",	10,	14},
+	{"cpu",		10,	13},
 	/* {"moonphase",	18000,	5}, */
 	{"weather",	18000,	5},
 	{"mailbox",	180,	12},
 	{"volume",	0,	10},
-	{"battery",	5,	3},
+	{"battery",	1,	3},
 	{"clock",	60,	1},
 	{"internet",	5,	4},
 	{"help-icon",	0,	15},
